@@ -55,6 +55,6 @@
 ### ⚠️ There might be bugs in the code. (Everything stored locally so no worries about data.)
 * **Feedback/Suggestions:** If something keeps breaking, it's most likely a bug. Tell us about it in the discord server (`/help`) and we'll do our best to fix it. Also if you think you got an idea to make it better, do tell us!
 
-### ⛅ **LIVE PREVIEW AT: **
+### ⛅ LIVE PREVIEW AT: https://browserainfinite.github.io/browsera-extension-chrome/ 
 
 *Built with ❤️ under the Browsera initiative for those who value speed and minimalism.*
